@@ -1,11 +1,10 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyDCOslpRSDI7Zeo0D0XIsix3zNK9uc0N08",
-    authDomain: "fire-auth-form-validation.firebaseapp.com",
-    databaseURL: "https://fire-auth-form-validation.firebaseio.com",
-    projectId: "fire-auth-form-validation",
-    storageBucket: "fire-auth-form-validation.appspot.com",
-    messagingSenderId: "618780191525",
-    appId: "1:618780191525:web:9c39f7bfef01261a83c8cc"
-    };
-  
+    apiKey: "AIzaSyCyNBfBR_s7n_dCjPyhXxMSEaOmdMDio-Y",
+    authDomain: "emajohn-c22fa.firebaseapp.com",
+    databaseURL: "https://emajohn-c22fa.firebaseio.com",
+    projectId: "emajohn-c22fa",
+    storageBucket: "emajohn-c22fa.appspot.com",
+    messagingSenderId: "301754953808",
+    appId: "1:301754953808:web:6dc418a5746b25f551a155"
+  };
     export default firebaseConfig;

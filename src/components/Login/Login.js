@@ -83,7 +83,7 @@ function Login() {
   }
 
   return (
-    <div style={{textAlign: 'center'}} className="py-5">
+    <div>
       {
         user.isSignedIn ? <button onClick={signOut}>Sign Out</button>:
         <button onClick={googleSignIn}>Sign in</button>
